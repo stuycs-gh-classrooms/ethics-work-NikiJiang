@@ -1,4 +1,5 @@
 """
+0. Worked with Nia Lam and Sarah Wu + Ducky: Mario 
 1. Do you want to play tic tac toe
 2. Player O: Select your spot. First give us the row (1, 2, 3)
 3. Player O: Then give us the column (1, 2, 3). 
